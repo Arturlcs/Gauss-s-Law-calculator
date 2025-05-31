@@ -36,6 +36,6 @@ A calculator with graphical representation option for electric fields emitted by
 
 Copy the repository:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Arturlcs/Gauss-s-Law-calculator/blob/main/Calculadora%20de%20Lei%20de%20Gauss.py)
 cd seu-repositorio
 pip install -r requirements.txt
